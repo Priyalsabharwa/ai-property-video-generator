@@ -1,0 +1,23 @@
+{
+  "name": "Skyline Heights",
+  "location": "Green Valley Road, Pune",
+  "price": "₹85 Lakh",
+  "property_type": "2-BHK Apartment",
+  "features": [
+    "2 Bedrooms, 2 Bathrooms",
+    "Modular Kitchen",
+    "Spacious Balcony with City View",
+    "24x7 Security",
+    "Covered Parking"
+  ],
+  "contact": "Call +91 90000 00000",
+  "cta": "Book your site visit today",
+  "images": [
+    "images/01_exterior.jpg",
+    "images/02_living_room.jpg",
+    "images/03_bedroom.jpg",
+    "images/04_kitchen.jpg",
+    "images/05_balcony.jpg",
+    "images/06_entrance_parking.jpg"
+  ]
+}

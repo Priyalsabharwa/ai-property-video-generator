@@ -1,0 +1,18 @@
+# Core (required)
+Pillow>=10.1
+numpy>=1.24
+imageio-ffmpeg>=0.4.9     # bundles an ffmpeg binary; a system ffmpeg is used first if present
+
+# Web UI (optional)
+streamlit>=1.30
+
+# Optional narration engines (tried in this order; install at least one for voice-over)
+#   1) espeak-ng  -> system package: `sudo apt install espeak-ng` / `brew install espeak-ng`
+pyttsx3>=2.90
+gTTS>=2.5                 # online (Google TTS); better voice quality
+
+# Optional LLM script mode
+anthropic>=0.40
+
+# Tests
+pytest>=7
